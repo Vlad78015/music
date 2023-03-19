@@ -1,0 +1,70 @@
+body{
+    background: url(https://tengrinews.kz/userdata/news/2023/news_488934/thumb_m/photo_419313.png);
+    color: gold;
+}
+span{
+    color: rgb(17, 103, 222);
+}
+
+.main {
+}
+
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background: linear-gradient(#1390d3, #ffd900);
+    border-radius: 15px;
+    width: 200px;
+    margin: 0 auto;
+}
+.media {
+    background:  url(https://img.lemde.fr/2020/01/19/0/0/2817/3712/1328/0/45/0/4a72002_VD1kbFU7T-G_dBhVCYy8BY7W.jpg);
+    background-size: cover;
+    border: 1px solid #000;
+    width: 750px;
+    height: 500px;
+    border-radius: 20px;
+    margin: 50px auto;
+    padding-top: 10px;
+}
+.media__player {
+    background: linear-gradient(#000, #ada9a9);
+    border-radius: 20px;
+    width: 300px;
+    margin: 0 0 10px 0;
+    padding: 3px;
+    border: 1px solid #000;
+}
+.media__name {
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 5px 2px 5px #ff0000;
+    font-style: italic;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.media__audio {
+}
+
+.media__image{
+    width: 80px;
+    margin: 0 0 0 100px;
+    border: 1px solid #000;
+}
+.line{
+    display:inline-block;
+}
+
+.line li{
+    list-style: none;
+    display: inline;
+}
+
+.line-2{
+    display: inline-block;
+    padding: 45px;
+}
+
+.line-2 li{
+    list-style: none;
+    display: inline;
+}
